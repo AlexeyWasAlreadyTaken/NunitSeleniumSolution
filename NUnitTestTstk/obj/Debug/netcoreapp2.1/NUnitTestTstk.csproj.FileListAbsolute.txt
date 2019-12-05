@@ -1,0 +1,44 @@
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.deps.json
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.runtimeconfig.json
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.runtimeconfig.dev.json
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.dll
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.pdb
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.AssemblyInfoInputs.cache
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.AssemblyInfo.cs
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.dll
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.pdb
+C:\Users\Alexey\source\repos\NunitSol\NUnitTestTstk\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.csprojAssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.deps.json
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.runtimeconfig.dev.json
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.dll
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.pdb
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.dll
+C:\Users\Alexey\Desktop\Новая папка\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.pdb
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.deps.json
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.runtimeconfig.json
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.runtimeconfig.dev.json
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.dll
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\bin\Debug\netcoreapp2.1\NUnitTestTstk.pdb
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.csprojAssemblyReference.cache
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.csproj.CoreCompileInputs.cache
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.AssemblyInfoInputs.cache
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.AssemblyInfo.cs
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.dll
+C:\Repos\NUnitSELENIUM\NUnitTestTstk\obj\Debug\netcoreapp2.1\NUnitTestTstk.pdb
