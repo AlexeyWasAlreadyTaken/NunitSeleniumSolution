@@ -44,8 +44,9 @@ namespace NUnitTestTstk.Tests
             mainPage.PressSearchButton();
             Utilities.WaitingUtilities.WaitForVisibleElement(driver,By.XPath(resultPageHotelsContainerPath));
             var allHotelsInSpecifiedCity = results.AllHotelsInOneCity(driver,"New York");
+            var dateIsCorrect = results.datesIsCorrect("May 1, 2020", "May 30, 2020");
             // ASSERT
-            Assert.IsTrue(allHotelsInSpecifiedCity);
+            Assert.IsTrue(allHotelsInSpecifiedCity && dateIsCorrect);
         }
 
         [TearDown]

@@ -10,6 +10,16 @@ namespace NUnitTestTstk.PageObjects
 {
     class BookingSearchResultsPage
     {
+
+
+
+        [FindsBy(How = How.XPath, Using = "//div[@data-placeholder='Check-in Date']")]
+        public IWebElement checkInDatefiled { get; set; }
+
+        [FindsBy(How = How.XPath, Using = "//div[@data-placeholder='Check-out Date']")]
+        public IWebElement checkOutDatefiled { get; set; }
+
+
         private IWebDriver driver;
         public int getResultsCount(IWebDriver driver)
         {
@@ -25,6 +35,27 @@ namespace NUnitTestTstk.PageObjects
             By by = By.XPath(xpath);
             var elements = driver.FindElements(by);
             return elements.Count == getResultsCount(driver) ? true : false;
+        }
+
+        public bool datesIsCorrect(string inDate, string outDate)
+        {
+            string chkInDate = checkInDatefiled.Text;
+            string chkOutDate = checkOutDatefiled.Text;
+
+            chkInDate = chkInDate.Substring(chkInDate.IndexOf(' ')+1);
+            chkOutDate = chkOutDate.Substring(chkOutDate.IndexOf(' ')+1);
+
+            var checkInCorrect = chkInDate == inDate ? true : false;
+            var checkOutCorrect = chkOutDate == outDate ? true : false;
+
+            if (checkInCorrect && checkOutCorrect)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
