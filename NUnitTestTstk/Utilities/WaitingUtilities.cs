@@ -11,9 +11,9 @@ namespace NUnitTestTstk.Utilities
     {
         public static void WaitForVisibleElement(IWebDriver driver, By by)
         {
-            By hintListXpath = by;
+            By path = by;
             IWait<IWebDriver> wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
-            IWebElement element = wait.Until(ExpectedConditions.ElementIsVisible(hintListXpath));
+            IWebElement element = wait.Until(ExpectedConditions.ElementIsVisible(path));
         }
     }
 }

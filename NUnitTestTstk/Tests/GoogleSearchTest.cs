@@ -20,7 +20,8 @@ using System.Threading;
 ///∙     Прислать мне этот тест Selenium, в формате Visual Studio solution, который собирается в библиотеку NUnit.
 ///∙     +
 ///∙     Применение абстракции будет плюсом.
-/// </summary>
+/// </summary> 
+
 namespace GoogleTest
 {
     [TestFixture]
@@ -40,9 +41,9 @@ namespace GoogleTest
         public void MyGoogleSearchTest()
         {
             // ARRANGE
-            var mainPage = new MainPage();
+            var mainPage = new GoogleMainPage();
             PageFactory.InitElements(driver, mainPage);
-            var searchResultPage = new SearchResultPage(driver);
+            var searchResultPage = new GoogleSearchResultPage(driver);
             PageFactory.InitElements(driver, searchResultPage);
             // ACT
             mainPage.SetSearchField("Selenium IDE export to C#");

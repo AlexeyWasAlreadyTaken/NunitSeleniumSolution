@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace NUnitTestTstk
 {
-    class MainPage
+    class GoogleMainPage
     {
         private IWebDriver driver;
 

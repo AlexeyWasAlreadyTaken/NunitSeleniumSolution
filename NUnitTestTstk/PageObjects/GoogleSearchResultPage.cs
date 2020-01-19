@@ -6,11 +6,11 @@ using SeleniumExtras.PageObjects;
 
 namespace NUnitTestTstk.Pages
 {
-    class SearchResultPage
+    class GoogleSearchResultPage
     {
         private IWebDriver driver;
 
-        public SearchResultPage(IWebDriver driver)
+        public GoogleSearchResultPage(IWebDriver driver)
         {
             this.driver = driver;
         }
